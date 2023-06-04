@@ -37,7 +37,7 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Welcome To Study Helper!</div>
+                <div class="masthead-subheading">Welcome To Study Helper!1</div>
                 <div class="masthead-heading text-uppercase">Study Helper</div>
                 <!-- <a class="btn btn-primary btn-xl text-uppercase" href="#services">Services</a> -->
             </div>
