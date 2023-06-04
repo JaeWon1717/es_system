@@ -1,7 +1,7 @@
 CFLAGS = -Wall -O -g
 
 all: studyhelper
-smartlab: smartlab.o
-	gcc smartlab.o -o smartlab -lwiringPi -lpthread
+studyhelper: studyhelper.o
+	gcc studyhelper.o -o studyhelper -lwiringPi -lpthread
 clean:
-	rm -f smartlab *.o
+	rm -f studyhelper *.o
