@@ -278,7 +278,7 @@ INSERT INTO `distance` (`seq`, `distance`, `buzzer`) VALUES
 (277,	'62',	'off'),
 (278,	'57',	'off'),
 (279,	'62',	'off'),
-(280,	'58',	'off'),
+(280,	'59',	'off'),
 (281,	'70',	'off'),
 (282,	'64',	'off'),
 (283,	'60',	'off'),

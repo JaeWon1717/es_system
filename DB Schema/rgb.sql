@@ -83,6 +83,6 @@ INSERT INTO `rgb` (`seq`, `rgbcolor`) VALUES
 (82,	'none'),
 (83,	'white'),
 (84,	'none'),
-(85,	'blue'),
+(85,	'white'),
 (86,	'white'),
 (87,	'none');

@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Study Helper</title>
+        <title>Study Helper11</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -55,7 +55,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-lightbulb fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">조명 조절 기능</h4>
+                        <h4 class="my-3">조명 조절 기능1</h4>
                         <p class="text-muted">공부를 시작하기 전, 공부 하려는 과목을 설정하면 과목에 맞는 색온도 조명 조절 기능과 주변 밝기에 따른 조명의 세기 설정 기능</p>
                     </div>
                     <div class="col-md-4">
