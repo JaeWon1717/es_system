@@ -20,7 +20,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.PNG" alt="..." height="600" width="150"/></a>
+                <a class="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.jpg" alt="..." height="600" width="150"/></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
@@ -63,7 +63,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-temperature-half fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">온도/습도 조절 기능</h4>
+                        <h4 class="my-3">온도ㅇㅇㅇㅇㅇㅇ/습도 조절 기능</h4>
                         <p class="text-muted">실시간 온/습도 센서 센싱을 사용해 공부하기 가장 좋은 실내 온도인 15~20도로 유지</p>
                     </div>
                     <div class="col-md-4">
